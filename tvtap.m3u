@@ -1,297 +1,293 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ACC Network (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/221022031721accn.png" group-title="USA",ACC Network (TVT)
-http://stream.mardio.link:8081/live/us-accnetwork.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzIgQU0maGFzaF92YWx1ZT1RVkFZN1Z6ZC9jL0RiMmRJOFB6eHRBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTIzMTg=
-#EXTINF:-1 tvg-id="" tvg-name="A&E (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/160116112847ae.gif" group-title="USA",A&E (TVT)
-http://stream.mardio.link:8081/live/us-ae.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzIgQU0maGFzaF92YWx1ZT1yeFR4a25xRFcxL09LL1dpaEozVnRRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTIzNDk=
-#EXTINF:-1 tvg-id="" tvg-name="AMC (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/160116113647amc.png" group-title="USA",AMC (TVT)
-http://stream.mardio.link:8081/live/us-amc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzIgQU0maGFzaF92YWx1ZT1YdndsZlh0RWhJalpqSEl1dEtZTDRBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTIzNzI=
-#EXTINF:-1 tvg-id="" tvg-name="ABC (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/280123080254abc.png" group-title="USA",ABC (TVT)
-http://stream.mardio.link:8081/live/us-abc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzIgQU0maGFzaF92YWx1ZT0wRVdvR3Z1Tm5vcm5kUkFJaTYwQkFBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTIzNTQ=
-#EXTINF:-1 tvg-id="" tvg-name="Abc news (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/201217100630abcnew.png" group-title="USA",Abc news (TVT)
-http://stream.mardio.link:8081/live/us-abc-news.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzIgQU0maGFzaF92YWx1ZT00V2RQMmJUbXZpa25zRHgvclpBZ0RBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTIzNjc=
 #EXTINF:-1 tvg-id="" tvg-name="BBC America (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/201217094623bbca.jpg" group-title="USA",BBC America (TVT)
-http://stream.mardio.link:8081/live/us-bbcamerica.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzIgQU0maGFzaF92YWx1ZT1Pc2l1bU9ubHZMa1BMdmJFUjZsRjlRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTIzMzE=
+http://stream.mardio.link:8081/live/us-bbcamerica.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NDYgQU0maGFzaF92YWx1ZT1jMm5XUjdMZXpDQ1RZK0RJYVY1R2V3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MDYyNjQ=
+#EXTINF:-1 tvg-id="" tvg-name="AMC (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/160116113647amc.png" group-title="USA",AMC (TVT)
+http://stream.mardio.link:8081/live/us-amc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NDYgQU0maGFzaF92YWx1ZT1SbXhFRVBxMlZ4SnBzc0k5Z2k3WHZBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MDYzMzU=
+#EXTINF:-1 tvg-id="" tvg-name="A&E (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/160116112847ae.gif" group-title="USA",A&E (TVT)
+http://stream.mardio.link:8081/live/us-ae.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NDYgQU0maGFzaF92YWx1ZT02OU1IMWNWTFhzTXNjRlFVMEQzeVB3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MDYzMzg=
 #EXTINF:-1 tvg-id="" tvg-name="AXS TV (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/160116114345axs.jpg" group-title="USA",AXS TV (TVT)
-http://stream.mardio.link:8081/live/us-axs.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzIgQU0maGFzaF92YWx1ZT1YdndsZlh0RWhJalpqSEl1dEtZTDRBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTIzNzI=
-#EXTINF:-1 tvg-id="" tvg-name="BBC Two (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/160116114814bbc2.png" group-title="UK",BBC Two (TVT)
-http://stream.mardio.link:8081/live/uk-bbc2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzMgQU0maGFzaF92YWx1ZT1UZU1EU3A2QUJTZytyMTFXZWhnanBBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTMzMjU=
+http://stream.mardio.link:8081/live/us-axs.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NDYgQU0maGFzaF92YWx1ZT02LzIzR0JiSmZTbDdTa25nZ0JVODBnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MDYyNjE=
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/160116113836animal.PNG" group-title="USA",Animal Planet (TVT)
+http://stream.mardio.link:8081/live/us-animalplanet.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NDYgQU0maGFzaF92YWx1ZT1HK3RqY1RxRlY3WGkxTFZ6cFN5YklnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MDYyODg=
+#EXTINF:-1 tvg-id="" tvg-name="Abc news (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/201217100630abcnew.png" group-title="USA",Abc news (TVT)
+http://stream.mardio.link:8081/live/us-abc-news.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NDYgQU0maGFzaF92YWx1ZT1uWHdvbVVVSitlOHlHc1RpRG9KeHNRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MDYyNjk=
+#EXTINF:-1 tvg-id="" tvg-name="ACC Network (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/221022031721accn.png" group-title="USA",ACC Network (TVT)
+http://stream.mardio.link:8081/live/us-accnetwork.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NDYgQU0maGFzaF92YWx1ZT1qL290MGhFWnVONklDNGlQOExWcmhRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MDYzOTk=
+#EXTINF:-1 tvg-id="" tvg-name="ABC (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/280123080254abc.png" group-title="USA",ABC (TVT)
+http://stream.mardio.link:8081/live/us-abc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NDYgQU0maGFzaF92YWx1ZT1SbXhFRVBxMlZ4SnBzc0k5Z2k3WHZBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MDYzMzU=
 #EXTINF:-1 tvg-id="" tvg-name="BBC One (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/160116114707bbc1.jpg" group-title="UK",BBC One (TVT)
-http://stream.mardio.link:8081/live/uk-bbc1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzMgQU0maGFzaF92YWx1ZT1XMmFRQisxLzVwREJ1eWFpMEJGYmdRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTMzNDY=
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/160116114930bein1f.png" group-title="FRANCE",Bein Sports 1 (TVT)
-http://stream.mardio.link:8081/live/fr-beinsport1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzMgQU0maGFzaF92YWx1ZT02cnFvR1ljNkRyVDNlbng3QzRMaHpRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTM1MjY=
+http://stream.mardio.link:8081/live/uk-bbc1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NDYgQU0maGFzaF92YWx1ZT1lNC9LL2ZJclRNME1vUm1xVlhlTGZBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MDY5Mzc=
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/041017012448beinus.jpg" group-title="USA",Bein Sports (TVT)
-http://stream.mardio.link:8081/live/us-bein.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzMgQU0maGFzaF92YWx1ZT1pNHNmakJPcmMvK3pEL3BiaDVIK0V3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTM1Nzg=
+http://stream.mardio.link:8081/live/us-bein.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NDcgQU0maGFzaF92YWx1ZT1tSGZhQTVWL2p4K240Y0hIMVV4TDZBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MDcxMTE=
+#EXTINF:-1 tvg-id="" tvg-name="BBC Two (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/160116114814bbc2.png" group-title="UK",BBC Two (TVT)
+http://stream.mardio.link:8081/live/uk-bbc2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NDcgQU0maGFzaF92YWx1ZT1vQ05WS2xmVkJCOFRDamttWU9WQzV3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MDcxNTc=
 #EXTINF:-1 tvg-id="" tvg-name="BET (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/291022023227bet.jpeg" group-title="USA",BET (TVT)
-http://stream.mardio.link:8081/live/us-bet.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzQgQU0maGFzaF92YWx1ZT1LSkFKMyt6NlNaYWlnUkxjUlpaSTBBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTQ0NjU=
+http://stream.mardio.link:8081/live/us-bet.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NDcgQU0maGFzaF92YWx1ZT1jMU5Eb1kyU0lyR05RUDFhOHdJN0NRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MDc4NjY=
 #EXTINF:-1 tvg-id="" tvg-name="Big Ten Network (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/221022033817bigten.png" group-title="USA",Big Ten Network (TVT)
-http://stream.mardio.link:8081/live/us-bigten.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzQgQU0maGFzaF92YWx1ZT1oc3E5UTY5NzBIM1NOTXM4SEw5UGV3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTQ1NTc=
+http://stream.mardio.link:8081/live/us-bigten.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NDcgQU0maGFzaF92YWx1ZT04RzRDZmd6OUhyU3pKL2xuditVeTRBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MDc4ODc=
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/201217100838bloom.jpg" group-title="USA",Bloomberg (TVT)
-http://stream.mardio.link:8081/live/us-bloomberg.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzQgQU0maGFzaF92YWx1ZT1Lb3NDcFhCY2N5dmNrdmM4NjZmWTJRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTQ2MjE=
+http://stream.mardio.link:8081/live/us-bloomberg.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NDcgQU0maGFzaF92YWx1ZT10ck5nU0MxU0ZBN0Urd2RpK1hnQXVBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MDc4OTc=
 #EXTINF:-1 tvg-id="" tvg-name="Bravo (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/160116115406bravo.png" group-title="USA",Bravo (TVT)
-http://stream.mardio.link:8081/live/us-bravo.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzQgQU0maGFzaF92YWx1ZT1aQ01PeXcrM1NCUUZRdE5pdDJJYWZRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTQ2NTI=
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/250118035258boom.jpg" group-title="USA",Boomerang (TVT)
-http://stream.mardio.link:8081/live/us-boomerang.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzQgQU0maGFzaF92YWx1ZT1qU3B5K2JtZUhDQzNuc2txVEFFUTJnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTQ3MDU=
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/160116115523bt1.jpg" group-title="UK",BT Sport 1 (TVT)
-http://stream.mardio.link:8081/live/uk-btsport1-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzQgQU0maGFzaF92YWx1ZT1LQWlxM2FLWVZKN1JUNE41MnBVejRRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTQ3MzI=
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/160116115549bt2.jpg" group-title="UK",BT Sport 2 (TVT)
-http://stream.mardio.link:8081/live/uk-btsport2-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzQgQU0maGFzaF92YWx1ZT1Rd3h2QmZpZXlVbk5sZ05BVnB4TSt3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTQ3OTU=
+http://stream.mardio.link:8081/live/us-bravo.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NDggQU0maGFzaF92YWx1ZT1DenhVVUpWNlQxSllRYW95cTZ6MTBRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MDgwMjA=
 #EXTINF:-1 tvg-id="" tvg-name="BT Sport 3 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/270916013607bt3.png" group-title="UK",BT Sport 3 (TVT)
-http://stream.mardio.link:8081/live/uk-btsport3-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzQgQU0maGFzaF92YWx1ZT11RjJqYldnWVZuQTNRMUd1ZExKTzJ3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTQ4MjI=
+http://stream.mardio.link:8081/live/uk-btsport3-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NDggQU0maGFzaF92YWx1ZT1QMTdFYnMyTDZtMDVJM2RPd1F0Z3hBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MDgwOTM=
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/160116115549bt2.jpg" group-title="UK",BT Sport 2 (TVT)
+http://stream.mardio.link:8081/live/uk-btsport2-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NDggQU0maGFzaF92YWx1ZT1mUmpvYWthY3RCdk1vbENZcm1PS2xRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MDgwNzU=
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/250118035258boom.jpg" group-title="USA",Boomerang (TVT)
+http://stream.mardio.link:8081/live/us-boomerang.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NDggQU0maGFzaF92YWx1ZT1lZ05CZU1yeUtnVWtqSU5pa3hXcTVnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MDgxMzI=
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/160116115523bt1.jpg" group-title="UK",BT Sport 1 (TVT)
+http://stream.mardio.link:8081/live/uk-btsport1-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NDggQU0maGFzaF92YWx1ZT1lSFZxMGpqY21EZmlGT0ZhQitDV0tBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MDgxMDQ=
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/160116115720cn.png" group-title="USA",Cartoon Network (TVT)
-http://stream.mardio.link:8081/live/us-cartoonnetwork.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzUgQU0maGFzaF92YWx1ZT1ONXd0aHhzc0xLcGNGNWpPU2dHSXBnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTU2MTI=
-#EXTINF:-1 tvg-id="" tvg-name="CBS (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/160116115741cbs.png" group-title="USA",CBS (TVT)
-http://stream.mardio.link:8081/live/us-cbs.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzUgQU0maGFzaF92YWx1ZT1pck14RHZxM3dydkJBNUdPWjB2ODd3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTU2MDI=
+http://stream.mardio.link:8081/live/us-cartoonnetwork.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NDggQU0maGFzaF92YWx1ZT1kczd0SWZ2endaMzVhVDNRSlRLb09RPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MDg2MzI=
 #EXTINF:-1 tvg-id="" tvg-name="CBS News (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/201217100730cbsn.gif" group-title="USA",CBS News (TVT)
-http://stream.mardio.link:8081/live/us-cbsnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzUgQU0maGFzaF92YWx1ZT1TYWswdHVtdGVQL2xLZmpadTJzRHBRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTU2MzY=
-#EXTINF:-1 tvg-id="" tvg-name="CBS Sports Network (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/041017012728cbss.jpg" group-title="USA",CBS Sports Network (TVT)
-http://stream.mardio.link:8081/live/us-cbssportshd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzUgQU0maGFzaF92YWx1ZT1qMG5KU2Z3OHlPRjlhM1pJQm13RFd3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTU2Njg=
+http://stream.mardio.link:8081/live/us-cbsnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NDggQU0maGFzaF92YWx1ZT16bWdFRjRVYUdIL2pkUENKajlHOXN3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MDg3ODU=
+#EXTINF:-1 tvg-id="" tvg-name="CBS (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/160116115741cbs.png" group-title="USA",CBS (TVT)
+http://stream.mardio.link:8081/live/us-cbs.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NDggQU0maGFzaF92YWx1ZT1xeDg0QVliUGtZcnZJUklJb1A1R05nPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MDg4MTE=
 #EXTINF:-1 tvg-id="" tvg-name="Channel 4 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/160116120342ch44.jpg" group-title="UK",Channel 4 (TVT)
-http://stream.mardio.link:8081/live/uk-channel4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzUgQU0maGFzaF92YWx1ZT0xV0RnVmpaekxMYWxpODU0VWpKcDJnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTU4MTE=
+http://stream.mardio.link:8081/live/uk-channel4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NDggQU0maGFzaF92YWx1ZT00dXRxUEVSamtaZmxnd0Qva1JmZERBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MDg4MTM=
+#EXTINF:-1 tvg-id="" tvg-name="CBS Sports Network (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/041017012728cbss.jpg" group-title="USA",CBS Sports Network (TVT)
+http://stream.mardio.link:8081/live/us-cbssportshd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NDggQU0maGFzaF92YWx1ZT1RalJvZVA5TDVEaGE0NDRCUGx0cmlRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MDg4MjM=
 #EXTINF:-1 tvg-id="" tvg-name="Channel 5 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/29091604580355.jpg" group-title="UK",Channel 5 (TVT)
-http://stream.mardio.link:8081/live/uk-channel5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzUgQU0maGFzaF92YWx1ZT1FWFdUZWtHbVFwejY4ZlBUZXphREFRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTU4Mzg=
-#EXTINF:-1 tvg-id="" tvg-name="CNBC (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/160116010754cnbs.png" group-title="USA",CNBC (TVT)
-http://stream.mardio.link:8081/live/us-cnbc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzUgQU0maGFzaF92YWx1ZT1WeVRvTUc1RWJCa0p2WWtjZll5SCt3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTU5ODA=
+http://stream.mardio.link:8081/live/uk-channel5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NDggQU0maGFzaF92YWx1ZT1RR24yN2VmZ0pFeUNxVmRFWkhMaFJnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MDg5NzA=
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/201217092847cinemax.png" group-title="USA",Cinemax (TVT)
-http://stream.mardio.link:8081/live/us-cinemax.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzUgQU0maGFzaF92YWx1ZT11c3NNN1YvaXAzQUFzNGkyOVA3dGhnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTU5NzU=
+http://stream.mardio.link:8081/live/us-cinemax.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NDggQU0maGFzaF92YWx1ZT1FRm1KUWY0R0I3TTh0V0prOTJiQjB3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MDg5ODQ=
+#EXTINF:-1 tvg-id="" tvg-name="CNBC (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/160116010754cnbs.png" group-title="USA",CNBC (TVT)
+http://stream.mardio.link:8081/live/us-cnbc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NDkgQU0maGFzaF92YWx1ZT1CcXBMMTJhS3hFUytCR2hHSFFlUnd3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MDkzNzU=
 #EXTINF:-1 tvg-id="" tvg-name="CNN (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/160116010910cnn.jpg" group-title="USA",CNN (TVT)
-http://stream.mardio.link:8081/live/us-cnn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzYgQU0maGFzaF92YWx1ZT1Ebi9YMWp5azdCeFNsTDY3ZGFuWUVBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTY1NzI=
+http://stream.mardio.link:8081/live/us-cnn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NDkgQU0maGFzaF92YWx1ZT04RCtZMWlrNXJ6M3AycEpBQlJsS1Z3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MDk1MjM=
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central. (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/160116011031comedy.png" group-title="USA",Comedy Central. (TVT)
-http://stream.mardio.link:8081/live/us-comedy-central.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzYgQU0maGFzaF92YWx1ZT1pWk1hOThnRjdFbVZSa3dSUVRKYzdBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTY3NDc=
+http://stream.mardio.link:8081/live/us-comedy-central.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NDkgQU0maGFzaF92YWx1ZT1sbkY4VXlxWXZwRStkYzRwZDFsTjBBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MDk1Mzg=
 #EXTINF:-1 tvg-id="" tvg-name="Crime investigation (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/210618020312crime.png" group-title="USA",Crime investigation (TVT)
-http://stream.mardio.link:8081/live/us-crime-investigation.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzYgQU0maGFzaF92YWx1ZT1FcnhVNkxtNUlibWd0cTV1c01hcHlRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTY3ODk=
+http://stream.mardio.link:8081/live/us-crime-investigation.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NDkgQU0maGFzaF92YWx1ZT1ac21YTFdFMk0veFhhbzNNeE9kNjRnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MDk1ODI=
 #EXTINF:-1 tvg-id="" tvg-name="CW (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/160116011155thecw.png" group-title="USA",CW (TVT)
-http://stream.mardio.link:8081/live/us-cw.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzcgQU0maGFzaF92YWx1ZT05ZHVoVGFxVHpXc3ErcGNHYnFMMllRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTcwMzk=
-#EXTINF:-1 tvg-id="" tvg-name="Discovery (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/160116011400disc.jpg" group-title="UK",Discovery (TVT)
-http://stream.mardio.link:8081/live/uk-discovery.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzcgQU0maGFzaF92YWx1ZT1QTkY4VVFlVlNEK0h6SXNCQzBPakVBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTc5MjA=
-#EXTINF:-1 tvg-id="" tvg-name="Destination America (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/250118035643desti.png" group-title="USA",Destination America (TVT)
-http://stream.mardio.link:8081/live/us-destination-america.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzcgQU0maGFzaF92YWx1ZT1CUGZhSmhGYUY3S2J0L0lwY2pSYk5BPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTc5MjI=
+http://stream.mardio.link:8081/live/us-cw.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NDkgQU0maGFzaF92YWx1ZT1YaUZCVEhpME1HdTNtMHZxYmttY21BPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MDk3OTY=
 #EXTINF:-1 tvg-id="" tvg-name="Discovery (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/160116011727disc.jpg" group-title="USA",Discovery (TVT)
-http://stream.mardio.link:8081/live/us-discovery.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzcgQU0maGFzaF92YWx1ZT1seGQweUlSbkxUMzFEeGhCSVp5Y21nPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTc5OTk=
-#EXTINF:-1 tvg-id="" tvg-name="Disney XD (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/210618021734xd.png" group-title="USA",Disney XD (TVT)
-http://stream.mardio.link:8081/live/us-disneyxd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzggQU0maGFzaF92YWx1ZT0rTXNZSmIzaUkrSWQwc1pRdnJCYmZRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTg5MTE=
+http://stream.mardio.link:8081/live/us-discovery.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTAgQU0maGFzaF92YWx1ZT1pTTZTSEVmMlFCSGxXNXNPMzAzOEhBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTA0MTI=
+#EXTINF:-1 tvg-id="" tvg-name="Discovery (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/160116011400disc.jpg" group-title="UK",Discovery (TVT)
+http://stream.mardio.link:8081/live/uk-discovery.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTAgQU0maGFzaF92YWx1ZT1HWFRqUk9Sbm1nLys0RTIvTksyaER3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTA0MTE=
+#EXTINF:-1 tvg-id="" tvg-name="Destination America (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/250118035643desti.png" group-title="USA",Destination America (TVT)
+http://stream.mardio.link:8081/live/us-destination-america.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTAgQU0maGFzaF92YWx1ZT1pTTZTSEVmMlFCSGxXNXNPMzAzOEhBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTA0MTI=
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/201217100354diss.png" group-title="USA",Disney Channel (TVT)
-http://stream.mardio.link:8081/live/us-disney.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzggQU0maGFzaF92YWx1ZT0yaVUzSFk3eHRRa1VOMU5jMG02YW9nPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTg4OTE=
+http://stream.mardio.link:8081/live/us-disney.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTEgQU0maGFzaF92YWx1ZT16amNTMk9qZnYvVVBnS0k0SlBEcXN3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTEwMjc=
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/210618021734xd.png" group-title="USA",Disney XD (TVT)
+http://stream.mardio.link:8081/live/us-disneyxd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTEgQU0maGFzaF92YWx1ZT0zRkRYcWg0aDhFY1AwK0Rpa1FtV2pRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTExNzI=
 #EXTINF:-1 tvg-id="" tvg-name="ESPN (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/160116015231espn.png" group-title="USA",ESPN (TVT)
-http://stream.mardio.link:8081/live/us-espn-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzkgQU0maGFzaF92YWx1ZT1pc3NWU2RFWEdxdm5ldkVmdExXSVhRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTkxNDc=
+http://stream.mardio.link:8081/live/us-espn-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTEgQU0maGFzaF92YWx1ZT1UN0pKNk83Q3NEWFk4M0FzdEZ1aHdRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTExOTY=
 #EXTINF:-1 tvg-id="" tvg-name="ESPN News (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/190116044259espnnew.gif" group-title="USA",ESPN News (TVT)
-http://stream.mardio.link:8081/live/us-espnnewshd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzkgQU0maGFzaF92YWx1ZT0xenJFYXR6RXIrcTVZK2VsNzN6dTdBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTkxNTk=
+http://stream.mardio.link:8081/live/us-espnnewshd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTEgQU0maGFzaF92YWx1ZT0xS1RMUVBMTjU0WVdaSFhRYUZXYklBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTEyMjU=
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/190116044202espn2.png" group-title="USA",ESPN 2 (TVT)
-http://stream.mardio.link:8081/live/us-espn2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzkgQU0maGFzaF92YWx1ZT1CQVZuRmZQQndLemhvVWliZzQvbExnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTkxNzA=
+http://stream.mardio.link:8081/live/us-espn2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTEgQU0maGFzaF92YWx1ZT1jRzFaM0NWZ2JMWEhvZGloZzNwYWtnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTEyODM=
 #EXTINF:-1 tvg-id="" tvg-name="ESPN U (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/041017012253espnu.png" group-title="USA",ESPN U (TVT)
-http://stream.mardio.link:8081/live/us-espnuhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzkgQU0maGFzaF92YWx1ZT1JREdEYlJCUUJJTVdaRlRtUnhNeFRRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTkxODM=
-#EXTINF:-1 tvg-id="" tvg-name="Euro Sport (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/140518053159eur.png" group-title="ITALY",Euro Sport (TVT)
-http://stream.mardio.link:8081/live/it-eurosport1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzkgQU0maGFzaF92YWx1ZT1yWWorbGNrVDg1eWZxbnJVdlRZMUJRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTkyMjk=
-#EXTINF:-1 tvg-id="" tvg-name="Fox (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/170123095825Fox_2019.png" group-title="USA",Fox (TVT)
-http://stream.mardio.link:8081/live/us-fox.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzkgQU0maGFzaF92YWx1ZT1aMEI4L0pNNWJBdjJyWkFBTlN3a2ZnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTk5NTM=
-#EXTINF:-1 tvg-id="" tvg-name="Fox Business (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/221022032119FOXBusiness_2019.png" group-title="USA",Fox Business (TVT)
-http://stream.mardio.link:8081/live/us-foxbusiness.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzkgQU0maGFzaF92YWx1ZT0rK3NsRFNEOFF5UDJqOHpJcVptbVBBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTk5ODg=
-#EXTINF:-1 tvg-id="" tvg-name="Fox News (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/190116045208foxnew.png" group-title="USA",Fox News (TVT)
-http://stream.mardio.link:8081/live/us-foxnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6MzkgQU0maGFzaF92YWx1ZT1JZ0tFLzhRTkNZSDBOMDVPdGZCMlFBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMTk5ODQ=
+http://stream.mardio.link:8081/live/us-espnuhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTEgQU0maGFzaF92YWx1ZT1ZODRNeHFoRVZXdHNhdWxqcys3L3lRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTE0MTA=
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/190116045235foxsp1.jpg" group-title="USA",Fox Sports 1 (TVT)
-http://stream.mardio.link:8081/live/us-foxsports1hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDAgQU0maGFzaF92YWx1ZT1aa3doTXJXaGo3WFdwVStDR0tnV1ZnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjAwNDY=
+http://stream.mardio.link:8081/live/us-foxsports1hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTEgQU0maGFzaF92YWx1ZT1vVjVHelZuS3BsYjlhWUhJeGJVNlFBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTE5MTg=
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/190116045256fox2.jpg" group-title="USA",Fox Sports 2 (TVT)
-http://stream.mardio.link:8081/live/us-foxsports2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDAgQU0maGFzaF92YWx1ZT00ZTUvNmJyOW9FeG9Ic2xhcTBENnFnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjAwNzI=
-#EXTINF:-1 tvg-id="" tvg-name="FX (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/190116045335fx.png" group-title="USA",FX (TVT)
-http://stream.mardio.link:8081/live/us-fx.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDAgQU0maGFzaF92YWx1ZT0wZmwrVHM2aXErd2lRRHp2bFBsbS9BPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjAyMTY=
+http://stream.mardio.link:8081/live/us-foxsports2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTEgQU0maGFzaF92YWx1ZT1ZZExuUm56TFlFeDFNNlVXeTZzNlp3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTE5Mjk=
+#EXTINF:-1 tvg-id="" tvg-name="Fox (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/170123095825Fox_2019.png" group-title="USA",Fox (TVT)
+http://stream.mardio.link:8081/live/us-fox.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTEgQU0maGFzaF92YWx1ZT1Eam05ZEliUTU5WFp4Y05Lck5DWFFBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTE5Mjc=
 #EXTINF:-1 tvg-id="" tvg-name="Freeform (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/260218113117free.jpg" group-title="USA",Freeform (TVT)
-http://stream.mardio.link:8081/live/us-freeform.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDAgQU0maGFzaF92YWx1ZT02QnpyN01DVmw4dUt1V2U2bnVCSVNnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjAyNDY=
+http://stream.mardio.link:8081/live/us-freeform.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTEgQU0maGFzaF92YWx1ZT1qK2htMjM1bjZ3MGhTZGRacU0yTTlRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTE5NjQ=
+#EXTINF:-1 tvg-id="" tvg-name="FX (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/190116045335fx.png" group-title="USA",FX (TVT)
+http://stream.mardio.link:8081/live/us-fx.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTEgQU0maGFzaF92YWx1ZT1zS053TFZ5U1FDM0poT2h3eTVSSWdRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTE5OTk=
 #EXTINF:-1 tvg-id="" tvg-name="Fxx (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/090118040055fxx.png" group-title="USA",Fxx (TVT)
-http://stream.mardio.link:8081/live/us-fxx.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDAgQU0maGFzaF92YWx1ZT1IMlZuYU5lWlp1TUJCVFpXMnl4MU9nPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjAyNDI=
+http://stream.mardio.link:8081/live/us-fxx.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTIgQU0maGFzaF92YWx1ZT1BalI0SkgzRUtxekN5UnRCT2RNMFdBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTIwMDg=
+#EXTINF:-1 tvg-id="" tvg-name="Fox Business (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/221022032119FOXBusiness_2019.png" group-title="USA",Fox Business (TVT)
+http://stream.mardio.link:8081/live/us-foxbusiness.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTIgQU0maGFzaF92YWx1ZT1QY0tlR0h4WHBmdXFvSGJXdjFsZnB3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTIwMTU=
 #EXTINF:-1 tvg-id="" tvg-name="Game Show Network (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/221022031055Game_Show_Network_2018.png" group-title="USA",Game Show Network (TVT)
-http://stream.mardio.link:8081/live/us-gameshownetwork.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDAgQU0maGFzaF92YWx1ZT10MlI3VXJyeUgxS3Rzd2tGQ2w3RFN3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjAyNjU=
-#EXTINF:-1 tvg-id="" tvg-name="Golf Channel (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/190116045453golf.png" group-title="USA",Golf Channel (TVT)
-http://stream.mardio.link:8081/live/us-golf.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDAgQU0maGFzaF92YWx1ZT1FTUFmMFEzTlBWbnB4UHNqZTJoT01RPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjAzMDA=
+http://stream.mardio.link:8081/live/us-gameshownetwork.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTIgQU0maGFzaF92YWx1ZT1BalI0SkgzRUtxekN5UnRCT2RNMFdBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTIwMDg=
+#EXTINF:-1 tvg-id="" tvg-name="Fox News (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/190116045208foxnew.png" group-title="USA",Fox News (TVT)
+http://stream.mardio.link:8081/live/us-foxnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTEgQU0maGFzaF92YWx1ZT1aU2ovdll6YVRpODJGMTloNnpJL2xRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTE5ODg=
 #EXTINF:-1 tvg-id="" tvg-name="Gold (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200116043416gold.jpg" group-title="UK",Gold (TVT)
-http://stream.mardio.link:8081/live/uk-gold.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDAgQU0maGFzaF92YWx1ZT1pUkk0Vi8wNXQ3T3RBWlVWa1ZiMk1RPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjAzMzE=
-#EXTINF:-1 tvg-id="" tvg-name="Hallmark (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/201217094707hall.jpg" group-title="USA",Hallmark (TVT)
-http://stream.mardio.link:8081/live/us-hallmark.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDAgQU0maGFzaF92YWx1ZT1MaERnZzFUOXgzUWlydVRpaHBENThnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjAzNTY=
-#EXTINF:-1 tvg-id="" tvg-name="HBO (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/190116045722hbo.jpg" group-title="USA",HBO (TVT)
-http://stream.mardio.link:8081/live/us-hbo.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDAgQU0maGFzaF92YWx1ZT1la09UaCswQlA1YkUyYlR3anNSWlFnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjA2NDg=
+http://stream.mardio.link:8081/live/uk-gold.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTIgQU0maGFzaF92YWx1ZT1MSldYcUVaSEczKzdmVFgrWHViTy9BPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTIwNzg=
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/190116045453golf.png" group-title="USA",Golf Channel (TVT)
+http://stream.mardio.link:8081/live/us-golf.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTIgQU0maGFzaF92YWx1ZT1uL1VpZnNaSS9vT0lEQk1oL2gvYTJRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTIxNjU=
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/100118035735fam.png" group-title="USA",HBO Family (TVT)
-http://stream.mardio.link:8081/live/us-hbo-family.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDAgQU0maGFzaF92YWx1ZT0wd0VkdVd2bDBQcy9RSGExS3ZCc2xnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjA5Mzc=
+http://stream.mardio.link:8081/live/us-hbo-family.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTIgQU0maGFzaF92YWx1ZT1ZeERzYTUrclJ1QTdzN3U5M3VnQUpnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTI1NDU=
+#EXTINF:-1 tvg-id="" tvg-name="HBO (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/190116045722hbo.jpg" group-title="USA",HBO (TVT)
+http://stream.mardio.link:8081/live/us-hbo.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTIgQU0maGFzaF92YWx1ZT1QQzdIcFpQUEJUVzQ0bHRBNUpZVmlRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTI1Mzc=
+#EXTINF:-1 tvg-id="" tvg-name="Hallmark (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/201217094707hall.jpg" group-title="USA",Hallmark (TVT)
+http://stream.mardio.link:8081/live/us-hallmark.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTIgQU0maGFzaF92YWx1ZT0ySWx1RTBudTZrb3E3L1d0OWZZQ1h3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTI1MzU=
 #EXTINF:-1 tvg-id="" tvg-name="HBO Zone (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/100118034736hbozone.png" group-title="USA",HBO Zone (TVT)
-http://stream.mardio.link:8081/live/us-hbo-zone.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDAgQU0maGFzaF92YWx1ZT1NeThaN2FldUFLQm53M2xkTkdnbDZRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjA5NjQ=
+http://stream.mardio.link:8081/live/us-hbo-zone.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTIgQU0maGFzaF92YWx1ZT1oNTBmSjZ0V09BZnkrYVVqSzlvODlRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTI1NjU=
 #EXTINF:-1 tvg-id="" tvg-name="HGTV (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/190116045843hgt.png" group-title="USA",HGTV (TVT)
-http://stream.mardio.link:8081/live/us-hgtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDEgQU0maGFzaF92YWx1ZT02RG4xMUVEVWJ0OHFNVVh5MjlBMnBBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjEwMzE=
+http://stream.mardio.link:8081/live/us-hgtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTIgQU0maGFzaF92YWx1ZT1NcmVJNEJBK2MzT0IyRVJMZlRSNzhRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTI2OTY=
 #EXTINF:-1 tvg-id="" tvg-name="History (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/190116050031his.jpg" group-title="USA",History (TVT)
-http://stream.mardio.link:8081/live/us-history.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDEgQU0maGFzaF92YWx1ZT1vT2lRT1hwRTdTb2p5MmdRVGVQVjZRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjExMjE=
+http://stream.mardio.link:8081/live/us-history.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTIgQU0maGFzaF92YWx1ZT0yc1NrTVhjTW84V3FSeGE5ajduZlF3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTI3MDg=
 #EXTINF:-1 tvg-id="" tvg-name="ITV2 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/190116050434itv2.jpg" group-title="UK",ITV2 (TVT)
-http://stream.mardio.link:8081/live/uk-itv2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDEgQU0maGFzaF92YWx1ZT1lZnBVUGhkTS9pNHg4V3BTTlBudzVnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjEzMTQ=
-#EXTINF:-1 tvg-id="" tvg-name="ITV3 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/190116050519itv3.jpg" group-title="UK",ITV3 (TVT)
-http://stream.mardio.link:8081/live/uk-itv3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDEgQU0maGFzaF92YWx1ZT15RmJQdVdDb2J6QVRpbkNka1Z6dFp3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjEzNDY=
+http://stream.mardio.link:8081/live/uk-itv2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTIgQU0maGFzaF92YWx1ZT1qYnFyZytIeURlVnVtZGpyb1BBb1BBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTI4NDY=
 #EXTINF:-1 tvg-id="" tvg-name="ITV (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/190116050342itv.png" group-title="UK",ITV (TVT)
-http://stream.mardio.link:8081/live/uk-itv1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDEgQU0maGFzaF92YWx1ZT15RmJQdVdDb2J6QVRpbkNka1Z6dFp3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjEzNDY=
+http://stream.mardio.link:8081/live/uk-itv1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTIgQU0maGFzaF92YWx1ZT0xcnVMQzlrL1o3SElPWVhzczVJVWZ3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTI4NjI=
+#EXTINF:-1 tvg-id="" tvg-name="ITV3 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/190116050519itv3.jpg" group-title="UK",ITV3 (TVT)
+http://stream.mardio.link:8081/live/uk-itv3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTIgQU0maGFzaF92YWx1ZT0xcnVMQzlrL1o3SElPWVhzczVJVWZ3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTI4NjI=
+#EXTINF:-1 tvg-id="" tvg-name="ITV4 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200116012425itv4.jpg" group-title="UK",ITV4 (TVT)
+http://stream.mardio.link:8081/live/uk-itv4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTIgQU0maGFzaF92YWx1ZT0yRU5CalFWRXZ3bG0zZlhSUXJNRjd3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTI4Nzg=
 #EXTINF:-1 tvg-id="" tvg-name="LMN (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/100118032404lmnn.png" group-title="USA",LMN (TVT)
-http://stream.mardio.link:8081/live/us-lmn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDIgQU0maGFzaF92YWx1ZT1KOU5yZ3dzd0Y5cklvNndYdm05VnZRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjIwNTk=
-#EXTINF:-1 tvg-id="" tvg-name="Magnolia Network (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/221022032719Magnolia_Network.png" group-title="USA",Magnolia Network (TVT)
-http://stream.mardio.link:8081/live/us-magnolia-network.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDIgQU0maGFzaF92YWx1ZT1LZWpGZHpKd3R3eHdKMU5xenJ2UFVRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjIwNzY=
+http://stream.mardio.link:8081/live/us-lmn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTMgQU0maGFzaF92YWx1ZT1QRnRqTlR5OVZiV0gyWUd4aXUvSzN3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTMzMjk=
 #EXTINF:-1 tvg-id="" tvg-name="Lifetime (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200116013131life.png" group-title="USA",Lifetime (TVT)
-http://stream.mardio.link:8081/live/us-lifetime.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDIgQU0maGFzaF92YWx1ZT1PTk1Gd0JKcWI0TFdoUE1ROHk4Zmp3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjIwOTk=
-#EXTINF:-1 tvg-id="" tvg-name="Milan tv (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/220518013021milan.png" group-title="ITALY",Milan tv (TVT)
-http://stream.mardio.link:8081/live/it-milantv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDIgQU0maGFzaF92YWx1ZT1ZQWFhb3FZc09IM0hvMjdwUW53OHF3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjIyMDE=
+http://stream.mardio.link:8081/live/us-lifetime.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTMgQU0maGFzaF92YWx1ZT0ycDNDNXRKaTJvQ0hLOTQ5NEQxNGNRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTMzNDg=
+#EXTINF:-1 tvg-id="" tvg-name="Magnolia Network (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/221022032719Magnolia_Network.png" group-title="USA",Magnolia Network (TVT)
+http://stream.mardio.link:8081/live/us-magnolia-network.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTMgQU0maGFzaF92YWx1ZT1yUkZtcUFiMFZ5MUc1RjZPMWltZnJBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTMzNTg=
 #EXTINF:-1 tvg-id="" tvg-name="MeTV (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/221022031332MeTV_logo_2014.png" group-title="USA",MeTV (TVT)
-http://stream.mardio.link:8081/live/us-metv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDIgQU0maGFzaF92YWx1ZT1YNTZnQlVUTkIrSWpBSGlUdzI0QUR3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjIyMjQ=
+http://stream.mardio.link:8081/live/us-metv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTMgQU0maGFzaF92YWx1ZT10MC9BMzlWMjVkOG5IWFlrdloxS2lnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTM0NTY=
+#EXTINF:-1 tvg-id="" tvg-name="Milan tv (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/220518013021milan.png" group-title="ITALY",Milan tv (TVT)
+http://stream.mardio.link:8081/live/it-milantv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTMgQU0maGFzaF92YWx1ZT1DTnd4VFFuejZKMmR3UzNrT3NwWmJ3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTM0OTU=
 #EXTINF:-1 tvg-id="" tvg-name="MLB Network (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200116013246mlb.png" group-title="USA",MLB Network (TVT)
-http://stream.mardio.link:8081/live/us-mlbnetworkhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDIgQU0maGFzaF92YWx1ZT1xTmo1ZzhaLzN3UjZOblN0R0NDTW93PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjIzMTM=
+http://stream.mardio.link:8081/live/us-mlbnetworkhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTMgQU0maGFzaF92YWx1ZT1DTnd4VFFuejZKMmR3UzNrT3NwWmJ3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTM0OTU=
 #EXTINF:-1 tvg-id="" tvg-name="Motor Trend (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/100424102218Motor_Trend.png" group-title="USA",Motor Trend (TVT)
-http://stream.mardio.link:8081/live/us-motor-trend.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDIgQU0maGFzaF92YWx1ZT1KY0d3M2dLWUJTRzJUTkVSNWlYVWF3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjIzOTQ=
+http://stream.mardio.link:8081/live/us-motor-trend.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTMgQU0maGFzaF92YWx1ZT1YRSs0VU5iUXJCbDJqSm5vTmoyQit3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTM1MzI=
 #EXTINF:-1 tvg-id="" tvg-name="MSNBC (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/131017031444msnbc.gif" group-title="USA",MSNBC (TVT)
-http://stream.mardio.link:8081/live/us-msnbc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDIgQU0maGFzaF92YWx1ZT1ZVktRcXV0Ly8vOFJqOTdPZG5LWFlBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjI0MjU=
+http://stream.mardio.link:8081/live/us-msnbc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTMgQU0maGFzaF92YWx1ZT03bUxQL2FWUzkwT0RldzdqY2NMRnBRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTM2MTA=
 #EXTINF:-1 tvg-id="" tvg-name="MTV (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200116020600mtvu.jpg" group-title="USA",MTV (TVT)
-http://stream.mardio.link:8081/live/us-mtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDIgQU0maGFzaF92YWx1ZT1jVUdHTmpHK2lMQmlpalFoY0JvcWRnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjI0ODk=
+http://stream.mardio.link:8081/live/us-mtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTMgQU0maGFzaF92YWx1ZT1SK2ttU3ZrQlU0clFPT1FqRTFGaUFnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTM4NDE=
 #EXTINF:-1 tvg-id="" tvg-name="MU TV (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200116020618mutv.gif" group-title="UK",MU TV (TVT)
-http://stream.mardio.link:8081/live/uk-mutv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDMgQU0maGFzaF92YWx1ZT1VZmZIci9TWEtOUktJUkpyaVlLY2h3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjMxMDU=
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200116020816natgeo.jpg" group-title="USA",Nat Geo (TVT)
-http://stream.mardio.link:8081/live/us-natgeo.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDMgQU0maGFzaF92YWx1ZT1MS2p0MDBEcXZXa2VqR3ZucUYzWWxBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjMxMzM=
+http://stream.mardio.link:8081/live/uk-mutv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTQgQU0maGFzaF92YWx1ZT11NTFCVit0QUVnVVdUdnR2VmhvVmVnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTQwOTg=
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200116020726wild.jpg" group-title="UK",Nat Geo Wild (TVT)
-http://stream.mardio.link:8081/live/uk-natgeowild.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDMgQU0maGFzaF92YWx1ZT0wMXZoQk5PblkzV3pNVHZvd2xzdHl3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjMxOTc=
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/201217095700net.png" group-title="USA",Nat Geo Wild (TVT)
-http://stream.mardio.link:8081/live/us-natgeo-wild.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDMgQU0maGFzaF92YWx1ZT11aVZQSkJZVWg4QkNTVWVuOVdNQ2lBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjMzMTA=
-#EXTINF:-1 tvg-id="" tvg-name="NBC (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200116020902nbc.jpg" group-title="USA",NBC (TVT)
-http://stream.mardio.link:8081/live/us-nbc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDMgQU0maGFzaF92YWx1ZT1ZMlFBR0lQLzJqOUdJaUdPNTFlWXBBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjMzMjg=
+http://stream.mardio.link:8081/live/uk-natgeowild.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTQgQU0maGFzaF92YWx1ZT1iOGo0U2ExRVMwWUY1VEorWkM1b1d3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTQxMzY=
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200116020816natgeo.jpg" group-title="USA",Nat Geo (TVT)
+http://stream.mardio.link:8081/live/us-natgeo.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTQgQU0maGFzaF92YWx1ZT1Qc2tkeXpub1l6WjRZdWs0UjhrWldRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTQxMTE=
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200116020842nba.png" group-title="USA",NBA TV (TVT)
-http://stream.mardio.link:8081/live/us-nbanetworkhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDMgQU0maGFzaF92YWx1ZT1ZMlFBR0lQLzJqOUdJaUdPNTFlWXBBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjMzMjg=
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200116020945nbcsn.png" group-title="USA",NBCSN (TVT)
-http://stream.mardio.link:8081/live/us-nbcsnhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDMgQU0maGFzaF92YWx1ZT1yOUxiUmVGVVF1MzhFL09JZ3E0bkFRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjMzNjk=
+http://stream.mardio.link:8081/live/us-nbanetworkhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTQgQU0maGFzaF92YWx1ZT05VEs5cDlVK3pEMkloS3R6UThTVFVBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTQxOTM=
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/201217095700net.png" group-title="USA",Nat Geo Wild (TVT)
+http://stream.mardio.link:8081/live/us-natgeo-wild.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTQgQU0maGFzaF92YWx1ZT1mek9VU25uZi9CeE9xcUxpRFoyOUR3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTQxNzU=
+#EXTINF:-1 tvg-id="" tvg-name="NBC (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200116020902nbc.jpg" group-title="USA",NBC (TVT)
+http://stream.mardio.link:8081/live/us-nbc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTQgQU0maGFzaF92YWx1ZT1Qc3FKOUZSRU1NU0NUVTFHWFVOWHdRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTQyMzA=
 #EXTINF:-1 tvg-id="" tvg-name="NFL Network (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200116021039nfl.jpg" group-title="USA",NFL Network (TVT)
-http://stream.mardio.link:8081/live/us-nflnetworkhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDMgQU0maGFzaF92YWx1ZT1xcVArMlRlSWNlejNWU05hVzgrVVhnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjMzNzE=
+http://stream.mardio.link:8081/live/us-nflnetworkhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTQgQU0maGFzaF92YWx1ZT1QWVF4Z3pwaGZicjMwbDVzSGl4cy93PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTQyNTY=
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200116020945nbcsn.png" group-title="USA",NBCSN (TVT)
+http://stream.mardio.link:8081/live/us-nbcsnhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTQgQU0maGFzaF92YWx1ZT13eGs0ZVBveEpKbDVYZlJHOHRjd1R3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTQyMzk=
 #EXTINF:-1 tvg-id="" tvg-name="NHL network (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/201217100935nhll.png" group-title="USA",NHL network (TVT)
-http://stream.mardio.link:8081/live/us-nhlnetworkhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDMgQU0maGFzaF92YWx1ZT12eGRyTW1HYXRTUVBjUm1od1o5UjFnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjM0MDQ=
+http://stream.mardio.link:8081/live/us-nhlnetworkhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTQgQU0maGFzaF92YWx1ZT1UMmNwZ0ZVR3FEZjh6OXJ0SExDZnJRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTQyNjE=
 #EXTINF:-1 tvg-id="" tvg-name="Nick (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200116021225nick.png" group-title="USA",Nick (TVT)
-http://stream.mardio.link:8081/live/us-nick.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDMgQU0maGFzaF92YWx1ZT0rZGlMQ3lIN0xhZ3I4MEVpYW9ZOWN3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjM0Mzg=
+http://stream.mardio.link:8081/live/us-nick.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTQgQU0maGFzaF92YWx1ZT1mdlFYV05XejBsRVJGWTA1b0d6cENBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTQzMTM=
 #EXTINF:-1 tvg-id="" tvg-name="Nick Toons (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/201217100201nickk.png" group-title="USA",Nick Toons (TVT)
-http://stream.mardio.link:8081/live/us-nicktoons.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDMgQU0maGFzaF92YWx1ZT04NFl4eGdnUTYwN1BIbFJqNlllSzlRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjM2NTU=
+http://stream.mardio.link:8081/live/us-nicktoons.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTQgQU0maGFzaF92YWx1ZT1Zank1N2tIbnhoeFhkdzdESXhJeTBRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTQ2MzA=
 #EXTINF:-1 tvg-id="" tvg-name="OWN (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/250118035754own.png" group-title="USA",OWN (TVT)
-http://stream.mardio.link:8081/live/us-own.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDQgQU0maGFzaF92YWx1ZT0wMnNiUU5KQ3FhR1VqRk56cjE2L3dnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjQxNDQ=
+http://stream.mardio.link:8081/live/us-own.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTQgQU0maGFzaF92YWx1ZT0rekthY0U0Y3VXY3BJeGp3ekRhTGVRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTQ3ODg=
 #EXTINF:-1 tvg-id="" tvg-name="Oxygen (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/221022031600Oxygen_2017.png" group-title="USA",Oxygen (TVT)
-http://stream.mardio.link:8081/live/us-oxygen.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDQgQU0maGFzaF92YWx1ZT05U0V5U3lpeHRtSVE3cUs3YW85MUpRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjQyMzI=
+http://stream.mardio.link:8081/live/us-oxygen.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTQgQU0maGFzaF92YWx1ZT1rTnpYaFhRQjBBTEo4KzhBSzVISkRBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTQ3OTQ=
 #EXTINF:-1 tvg-id="" tvg-name="Paramount Network (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/260218113343para.png" group-title="USA",Paramount Network (TVT)
-http://stream.mardio.link:8081/live/us-paramount-network.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDQgQU0maGFzaF92YWx1ZT1OYk40dHA0MXI3akFZdEVBMFpvUTJnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjQzMjA=
+http://stream.mardio.link:8081/live/us-paramount-network.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTQgQU0maGFzaF92YWx1ZT1zQ3I2UlRKOEpNdHk3dUdQWVZuK3hBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTQ4NDA=
 #EXTINF:-1 tvg-id="" tvg-name="Quest (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200116035140quest.jpg" group-title="UK",Quest (TVT)
-http://stream.mardio.link:8081/live/uk-quest.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDQgQU0maGFzaF92YWx1ZT0vVlR3VXF6aG1uWEZpVWJ2TERyOTBRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjQ0NjE=
+http://stream.mardio.link:8081/live/uk-quest.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTUgQU0maGFzaF92YWx1ZT03SUQ3Nm5PYTdGZi9LeHluSHc5UXZ3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTUwMDM=
 #EXTINF:-1 tvg-id="" tvg-name="Science (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/201217095933sci.png" group-title="USA",Science (TVT)
-http://stream.mardio.link:8081/live/us-science.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDUgQU0maGFzaF92YWx1ZT1Mb1k0Ym5MQWIvVXk3QVZoSExzN0JnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjU0NTE=
+http://stream.mardio.link:8081/live/us-science.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTUgQU0maGFzaF92YWx1ZT1qSnM3U29iZUxnL1QwRzJIZStnUnRBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTU1Njc=
 #EXTINF:-1 tvg-id="" tvg-name="Sec Network (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/061022111909sec.png" group-title="USA",Sec Network (TVT)
-http://stream.mardio.link:8081/live/us-secnetworkhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDUgQU0maGFzaF92YWx1ZT14cExtSkhrM3FBU0tWRGVaTWl2ZXZnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjU0OTE=
-#EXTINF:-1 tvg-id="" tvg-name="Showtime 2 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/201217094114show22.png" group-title="USA",Showtime 2 (TVT)
-http://stream.mardio.link:8081/live/us-showtime2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDUgQU0maGFzaF92YWx1ZT1ONEd4WGpMZWdDd3R5U2JFV0JRazdBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjU0OTk=
+http://stream.mardio.link:8081/live/us-secnetworkhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTUgQU0maGFzaF92YWx1ZT1RdFFZdnpzUzllcEdEd2I5L2VvYndRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTU1NjU=
 #EXTINF:-1 tvg-id="" tvg-name="Showtime (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/201217093820showtime.png" group-title="USA",Showtime (TVT)
-http://stream.mardio.link:8081/live/us-showtime.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDUgQU0maGFzaF92YWx1ZT1VVGx0TW84a2sxMjJ6VEM1cG12eHNnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjU1MjU=
+http://stream.mardio.link:8081/live/us-showtime.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTUgQU0maGFzaF92YWx1ZT1iSVJJRXNUcEtBQWZJa2I4dXVSZVdRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTU1Nzg=
+#EXTINF:-1 tvg-id="" tvg-name="Showtime 2 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/201217094114show22.png" group-title="USA",Showtime 2 (TVT)
+http://stream.mardio.link:8081/live/us-showtime2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTUgQU0maGFzaF92YWx1ZT1NODZKbTQ1TVJnVkhqWHhtMkFEM3ZRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTU2NDQ=
 #EXTINF:-1 tvg-id="" tvg-name="Showtime showcase (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/201217094322showca.png" group-title="USA",Showtime showcase (TVT)
-http://stream.mardio.link:8081/live/us-showtime-showcase.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDUgQU0maGFzaF92YWx1ZT1GRURRcnBLaThPM2pYZzhTcS9xMU93PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjU1ODU=
-#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 1 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/12121701510510.png" group-title="GERMANY",Sky Bundesliga 1 (TVT)
-http://stream.mardio.link:8081/live/de-skybundes1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDUgQU0maGFzaF92YWx1ZT0xVGU1LzNjQlVuZmJjUWlyenI0L3Z3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjU2MjY=
+http://stream.mardio.link:8081/live/us-showtime-showcase.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTUgQU0maGFzaF92YWx1ZT1DSzN3Q29NU1hvNy8zR3c2TDRjUTJBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTU2OTA=
 #EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 2 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/12121701532322.png" group-title="GERMANY",Sky Bundesliga 2 (TVT)
-http://stream.mardio.link:8081/live/de-skybundes2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDUgQU0maGFzaF92YWx1ZT1tZVorQitydnM0YU03ZWxiend3dTVnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjU4NDE=
-#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio 1 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200223031412cal1.png" group-title="ITALY",Sky Calcio 1 (TVT)
-http://stream.mardio.link:8081/live/it-sky-calcio1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDYgQU0maGFzaF92YWx1ZT1zSzlLaE5PVDRZcVpjdXBzOG0wNTdnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjYzMzk=
-#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio 2 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200223031528cal2.png" group-title="ITALY",Sky Calcio 2 (TVT)
-http://stream.mardio.link:8081/live/it-sky-calcio2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDYgQU0maGFzaF92YWx1ZT1sSDBLS2swaGFoZFk3M2djaDY5REh3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjYzNjc=
+http://stream.mardio.link:8081/live/de-skybundes2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTUgQU0maGFzaF92YWx1ZT0xc3Q2akNib3p3cm1oZW8zZkFTSVRRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTU5NTc=
+#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 1 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/12121701510510.png" group-title="GERMANY",Sky Bundesliga 1 (TVT)
+http://stream.mardio.link:8081/live/de-skybundes1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTUgQU0maGFzaF92YWx1ZT0xRDJFczJaR2NrU0VnN2xSNUlmbmt3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTU5NjE=
 #EXTINF:-1 tvg-id="" tvg-name="Sky Calcio 3 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200223031538cal3.png" group-title="ITALY",Sky Calcio 3 (TVT)
-http://stream.mardio.link:8081/live/it-skycalcio3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDYgQU0maGFzaF92YWx1ZT10QVJKSDVQeE5XTWJBNi81QkVaaUhBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjYzOTQ=
+http://stream.mardio.link:8081/live/it-skycalcio3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTYgQU0maGFzaF92YWx1ZT1RQVBLbU5vN0FTaWwwSTNhc1pkWC9BPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTYyMzQ=
 #EXTINF:-1 tvg-id="" tvg-name="Sky Calcio 4 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200223031552cal4.png" group-title="ITALY",Sky Calcio 4 (TVT)
-http://stream.mardio.link:8081/live/it-skycalcio4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDYgQU0maGFzaF92YWx1ZT1xbmlFWDJERHpFZGRlNWNWaUQweDJRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjY1MzY=
-#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio 5 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200223031609cal5.png" group-title="ITALY",Sky Calcio 5 (TVT)
-http://stream.mardio.link:8081/live/it-skycalcio5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDYgQU0maGFzaF92YWx1ZT0wK1JzbkU0NDdHYUcwcGp4SWZ5WWRRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjY1NzA=
+http://stream.mardio.link:8081/live/it-skycalcio4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTYgQU0maGFzaF92YWx1ZT1id3huZ0dIM3lTODNFaTNWekc4RVZnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTYzMjc=
 #EXTINF:-1 tvg-id="" tvg-name="Sky Calcio 6 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200223031621cal6.png" group-title="ITALY",Sky Calcio 6 (TVT)
-http://stream.mardio.link:8081/live/it-skycalcio6.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDYgQU0maGFzaF92YWx1ZT1jRnRNYzJCVDliVlN0cUFTanNCeHd3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjY2MDU=
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Calcio (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/190223125815Sky_Sport_Calcio.png" group-title="ITALY",Sky Sport Calcio (TVT)
-http://stream.mardio.link:8081/live/it-skysportcalcio.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDcgQU0maGFzaF92YWx1ZT1WQmFneE4xNjAvUmdYbko1eTZHNFdnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjc4MTg=
+http://stream.mardio.link:8081/live/it-skycalcio6.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTYgQU0maGFzaF92YWx1ZT1EOFJZVkJSNWhlWTRpY0lVL2UwZnp3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTYzNTA=
+#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio 5 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200223031609cal5.png" group-title="ITALY",Sky Calcio 5 (TVT)
+http://stream.mardio.link:8081/live/it-skycalcio5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTYgQU0maGFzaF92YWx1ZT0vallCcXhES3VxNFZJcm9BL3c5RGdBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTYzNTM=
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport 24 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200223035132Sky_Sport_24_-_Logo_2020.svg.png" group-title="ITALY",Sky Sport 24 (TVT)
-http://stream.mardio.link:8081/live/it-skysports24.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDcgQU0maGFzaF92YWx1ZT16aEs5azFVU1NvWDFnanRYVE9GdFpnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjc3MjI=
+http://stream.mardio.link:8081/live/it-skysports24.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTcgQU0maGFzaF92YWx1ZT1xbnVNcnpnbitPNHR5eVVoWjZGSHJRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTczNDY=
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport Arena (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/190718073708arenaa.jpeg" group-title="ITALY",Sky Sport Arena (TVT)
-http://stream.mardio.link:8081/live/it-skysport-arena.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDcgQU0maGFzaF92YWx1ZT1NZjd4eFg0VlUyVXZMRXJKczc3UElnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjc3OTc=
+http://stream.mardio.link:8081/live/it-skysport-arena.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTcgQU0maGFzaF92YWx1ZT05QzhmTkRpRHFSdjhpQWl3b3dFS3RRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTczNDU=
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Calcio (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/190223125815Sky_Sport_Calcio.png" group-title="ITALY",Sky Sport Calcio (TVT)
+http://stream.mardio.link:8081/live/it-skysportcalcio.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTcgQU0maGFzaF92YWx1ZT1oQlZKQk5pUlNTZ3hXejY2c1htbkF3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTc0OTE=
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200223034533Sky_Sport_F1_2020.png" group-title="ITALY",Sky Sport F1 (TVT)
-http://stream.mardio.link:8081/live/it-skysport-f1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDcgQU0maGFzaF92YWx1ZT1EODI3OGVmWG1LT2x5NHNQV3l0RFVBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjc5MzM=
+http://stream.mardio.link:8081/live/it-skysport-f1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTcgQU0maGFzaF92YWx1ZT1tcDVVL0o2V0N0SlllTExSNHV4dkJBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTc1MTc=
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport Motogp (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200223035257Sky_Sport_MotoGP_2020.png" group-title="ITALY",Sky Sport Motogp (TVT)
-http://stream.mardio.link:8081/live/it-skysport-motogp.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDggQU0maGFzaF92YWx1ZT1YbjBhcW0yWXVsdTZRNFFCTlRvQm93PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjgwODA=
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Arena (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/270717102912arena1.jpeg" group-title="UK",Sky Sports Arena (TVT)
-http://stream.mardio.link:8081/live/uk-skysportsarena-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDggQU0maGFzaF92YWx1ZT01OE1nQXJZYUJVV3pGUFBMWWxrSFNBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjgyNTk=
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Uno (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/190718073552uno.png" group-title="ITALY",Sky Sport Uno (TVT)
-http://stream.mardio.link:8081/live/it-skysport-uno.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDggQU0maGFzaF92YWx1ZT1iM1pPQjFCZVJKU1lHZSt2THFIYkd3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjgyNDg=
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports F1 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200717081443f12.jpeg" group-title="UK",Sky Sports F1 (TVT)
-http://stream.mardio.link:8081/live/uk-skysportsf1-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDggQU0maGFzaF92YWx1ZT1teGtVVlNrUGEwNzN5YVZ0YmxDRURRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjg0NjM=
+http://stream.mardio.link:8081/live/it-skysport-motogp.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTcgQU0maGFzaF92YWx1ZT0rYzNueTF3ckpkSEduSnRBcE1uNUR3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTc1MzU=
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/270717102848foot1.jpeg" group-title="UK",Sky Sports Football (TVT)
-http://stream.mardio.link:8081/live/uk-skysportsfootball-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDggQU0maGFzaF92YWx1ZT1ZaE5WR0xBRzkwVno1ZTU1VGRTZWFnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjg0NTY=
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200717080620skycric.jpeg" group-title="UK",Sky Sports Cricket (TVT)
-http://stream.mardio.link:8081/live/uk-skysportscricket-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDggQU0maGFzaF92YWx1ZT04RjBmR1VhRGVORCt4MjlRYUNwcWx3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjg0NzE=
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Mix (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200717081554mix2.jpeg" group-title="UK",Sky Sports Mix (TVT)
-http://stream.mardio.link:8081/live/uk-skysportsmix-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDggQU0maGFzaF92YWx1ZT1IZC9hM0JZOGwwRHFTK01UVEw4TGlRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjg1NzM=
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Golf (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/041122093920Sky_Sports_Golf.png" group-title="UK",Sky Sports Golf (TVT)
-http://stream.mardio.link:8081/live/uk-skysportsgolf-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDggQU0maGFzaF92YWx1ZT1WQThQYlF1Q0I2RHdaZVdpRkpTc0FRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjg1Nzc=
+http://stream.mardio.link:8081/live/uk-skysportsfootball-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTcgQU0maGFzaF92YWx1ZT1LZFJ2aXVnMDg1djdwdSttUU9CVUV3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTc3MTU=
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Arena (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/270717102912arena1.jpeg" group-title="UK",Sky Sports Arena (TVT)
+http://stream.mardio.link:8081/live/uk-skysportsarena-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTcgQU0maGFzaF92YWx1ZT1YK29wWGR3c0NDNEh5Qk5OaHJNVzdRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTc3MzM=
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Uno (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/190718073552uno.png" group-title="ITALY",Sky Sport Uno (TVT)
+http://stream.mardio.link:8081/live/it-skysport-uno.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTcgQU0maGFzaF92YWx1ZT1xWnNzTURrNGpuM2JpNVU0WnlrSDJBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTc3NTg=
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Main Event (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200717080757main1.jpeg" group-title="UK",Sky Sports Main Event (TVT)
-http://stream.mardio.link:8081/live/uk-skysportsmainevent-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDggQU0maGFzaF92YWx1ZT1Edmc1Nk1RczF2Qno1aC9YbE16a2NRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjg1OTE=
+http://stream.mardio.link:8081/live/uk-skysportsmainevent-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTcgQU0maGFzaF92YWx1ZT1HZjRXRUZPWUEreUthUDQ3U2F6ZTVnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTc3ODI=
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Mix (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200717081554mix2.jpeg" group-title="UK",Sky Sports Mix (TVT)
+http://stream.mardio.link:8081/live/uk-skysportsmix-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTcgQU0maGFzaF92YWx1ZT02ekNXaG02Smcwd3hmMm8ydkhZNGRBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTc3ODU=
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Golf (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/041122093920Sky_Sports_Golf.png" group-title="UK",Sky Sports Golf (TVT)
+http://stream.mardio.link:8081/live/uk-skysportsgolf-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTcgQU0maGFzaF92YWx1ZT1HWXpnYVBSeWloWTVmY3k0RXl3WWdBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTc3ODM=
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200717080620skycric.jpeg" group-title="UK",Sky Sports Cricket (TVT)
+http://stream.mardio.link:8081/live/uk-skysportscricket-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTcgQU0maGFzaF92YWx1ZT0xVWYvNS9ZMGozQktOc0dENi9ka1RBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTc3NzA=
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports NFL (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/020321091841nflll.png" group-title="UK",Sky Sports NFL (TVT)
-http://stream.mardio.link:8081/live/uk-skysportsnfl-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDggQU0maGFzaF92YWx1ZT03NUhpb0NyRkdCTXFxL0xudnZ5WENBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjg3MDE=
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200717081219pl2.jpeg" group-title="UK",Sky Sports Premier League (TVT)
-http://stream.mardio.link:8081/live/uk-skysportspremierleague-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDggQU0maGFzaF92YWx1ZT1GWlluc2ZTY2wvRkZjeDhVSHRmRkh3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjg3NDM=
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports News (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200717081653news1.jpeg" group-title="UK",Sky Sports News (TVT)
-http://stream.mardio.link:8081/live/uk-skysportsnews-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDggQU0maGFzaF92YWx1ZT1ZNEVRVXVjU1U4dVZOZFIzM21mSmt3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjg3MDc=
+http://stream.mardio.link:8081/live/uk-skysportsnfl-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTcgQU0maGFzaF92YWx1ZT1mcS9LYS9XQittUGJ0M0k5UmZUeWVBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTc5MjM=
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Racing (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/101022031600skr.png" group-title="UK",Sky Sports Racing (TVT)
-http://stream.mardio.link:8081/live/uk-skysportsracing-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDggQU0maGFzaF92YWx1ZT0wZmpQY1lnVTFFdVdTUE5RdFd3T3R3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjg3OTM=
+http://stream.mardio.link:8081/live/uk-skysportsracing-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTcgQU0maGFzaF92YWx1ZT04SW82aXNKWUZPVDdwTzdNVmtNcEx3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTc5NDc=
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports News (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200717081653news1.jpeg" group-title="UK",Sky Sports News (TVT)
+http://stream.mardio.link:8081/live/uk-skysportsnews-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTcgQU0maGFzaF92YWx1ZT0weDFpVTl1YmxuSTRYdWZwSnhTU0lRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTc5NDE=
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200717081219pl2.jpeg" group-title="UK",Sky Sports Premier League (TVT)
+http://stream.mardio.link:8081/live/uk-skysportspremierleague-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTcgQU0maGFzaF92YWx1ZT1PUDN1bDJpcWxDeVRiOEFJL2NzeVl3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTc5NTE=
 #EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/221022031445smithsonian.png" group-title="USA",Smithsonian Channel (TVT)
-http://stream.mardio.link:8081/live/us-smithsonian-channel.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDggQU0maGFzaF92YWx1ZT00V25xQm9vQko0V1ZTTnF5aU56MkVnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjg5Mjc=
-#EXTINF:-1 tvg-id="" tvg-name="Sport tv 1 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/201217102635sp111.png" group-title="PORTUGAL",Sport tv 1 (TVT)
-http://stream.mardio.link:8081/live/pt-sporttv1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDkgQU0maGFzaF92YWx1ZT0vYXd4a1hZRk9UcWkyUG9iRUgwZllRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjkwNTM=
-#EXTINF:-1 tvg-id="" tvg-name="Sport tv 2 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/201217102542sp2.png" group-title="PORTUGAL",Sport tv 2 (TVT)
-http://stream.mardio.link:8081/live/pt-sporttv2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDkgQU0maGFzaF92YWx1ZT1JaVRSb3lJb2lnN0NZLzU2dlUwbXVBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjkxMTU=
+http://stream.mardio.link:8081/live/us-smithsonian-channel.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTggQU0maGFzaF92YWx1ZT1oNnMxd0RvRndBeUtFRDlabnBHK3Z3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTgxMzQ=
 #EXTINF:-1 tvg-id="" tvg-name="Sport tv 3 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/201217102612sp3.png" group-title="PORTUGAL",Sport tv 3 (TVT)
-http://stream.mardio.link:8081/live/pt-sporttv3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDkgQU0maGFzaF92YWx1ZT1KL1JBeFAwZVhsTEFDQlhBUGlkeDhnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjkxOTE=
+http://stream.mardio.link:8081/live/pt-sporttv3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTggQU0maGFzaF92YWx1ZT0yRnlDUitCTFREb3JHOTUwbENkNUFBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTgzMzE=
+#EXTINF:-1 tvg-id="" tvg-name="Sport tv 1 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/201217102635sp111.png" group-title="PORTUGAL",Sport tv 1 (TVT)
+http://stream.mardio.link:8081/live/pt-sporttv1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTggQU0maGFzaF92YWx1ZT1YMVErWWllVWovSlVROURvTEN6MkNBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTgzNTE=
+#EXTINF:-1 tvg-id="" tvg-name="Sport tv 2 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/201217102542sp2.png" group-title="PORTUGAL",Sport tv 2 (TVT)
+http://stream.mardio.link:8081/live/pt-sporttv2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTggQU0maGFzaF92YWx1ZT1ETXNITXhtclE4dEtOU1BDYkNTeE5nPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTgzMTU=
 #EXTINF:-1 tvg-id="" tvg-name="Sport tv 4 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/201217102708sp4.png" group-title="PORTUGAL",Sport tv 4 (TVT)
-http://stream.mardio.link:8081/live/pt-sporttv4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDkgQU0maGFzaF92YWx1ZT1yUkpXNkhzMThGbDUxUWt2SUE0K013PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjkzNTk=
-#EXTINF:-1 tvg-id="" tvg-name="Sport tv 5 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/080118035520spopp.png" group-title="PORTUGAL",Sport tv 5 (TVT)
-http://stream.mardio.link:8081/live/pt-sporttv5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDkgQU0maGFzaF92YWx1ZT1mSDVqVUs4bGJtSGFJZU5vWDd0RVlnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjkzNjQ=
+http://stream.mardio.link:8081/live/pt-sporttv4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTggQU0maGFzaF92YWx1ZT1jMlp4WWM3QUt5SVVoZmNqQzZTb21RPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTg0ODI=
 #EXTINF:-1 tvg-id="" tvg-name="Sportsnet One (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/041017012929sn1.jpg" group-title="CANADA",Sportsnet One (TVT)
-http://stream.mardio.link:8081/live/us-sportsnetone.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDkgQU0maGFzaF92YWx1ZT1sTmkxS3IwU3VTS3lUd2VGa2tRNEtBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjk1NzA=
+http://stream.mardio.link:8081/live/us-sportsnetone.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTggQU0maGFzaF92YWx1ZT1MZUxVaEJMTkZkL1FhVEJqOVVtbGJRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTg0ODQ=
 #EXTINF:-1 tvg-id="" tvg-name="Sportsnet Ontario (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200116042105ont.png" group-title="CANADA",Sportsnet Ontario (TVT)
-http://stream.mardio.link:8081/live/us-sportsnetontario.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDkgQU0maGFzaF92YWx1ZT12TVRoT2l5aVlzWE04S2R6QXVVNCtBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjk2MDU=
+http://stream.mardio.link:8081/live/us-sportsnetontario.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTggQU0maGFzaF92YWx1ZT1jMlp4WWM3QUt5SVVoZmNqQzZTb21RPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTg0ODI=
+#EXTINF:-1 tvg-id="" tvg-name="Sport tv 5 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/080118035520spopp.png" group-title="PORTUGAL",Sport tv 5 (TVT)
+http://stream.mardio.link:8081/live/pt-sporttv5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTggQU0maGFzaF92YWx1ZT1MZUxVaEJMTkZkL1FhVEJqOVVtbGJRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTg0ODQ=
 #EXTINF:-1 tvg-id="" tvg-name="Sportsnet World (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200116042130worl.jpg" group-title="CANADA",Sportsnet World (TVT)
-http://stream.mardio.link:8081/live/us-sportsnetworld.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDkgQU0maGFzaF92YWx1ZT1FWWsrcmppbER0UWltYU40V2Y4cWt3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjk2MjU=
-#EXTINF:-1 tvg-id="" tvg-name="Starz cinema (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/201217095043starzci.png" group-title="USA",Starz cinema (TVT)
-http://stream.mardio.link:8081/live/us-starz-cinema.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDkgQU0maGFzaF92YWx1ZT1YemRHQUhHUmY0SXY4NExUSDNxOG93PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjk3MDI=
+http://stream.mardio.link:8081/live/us-sportsnetworld.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTggQU0maGFzaF92YWx1ZT1WVkhBS3h5bU9RT3RJMXhQQTl6U0hBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTg1MTA=
 #EXTINF:-1 tvg-id="" tvg-name="Starz (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/090118040003starz.gif" group-title="USA",Starz (TVT)
-http://stream.mardio.link:8081/live/us-starz.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDkgQU0maGFzaF92YWx1ZT11K1prVnZvcWp0anltcmZacklkQ3R3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjk3MzY=
+http://stream.mardio.link:8081/live/us-starz.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTggQU0maGFzaF92YWx1ZT1BSFQyTTRnSk1pODlxVFo1WjIrSjFnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTg1NzA=
+#EXTINF:-1 tvg-id="" tvg-name="Starz cinema (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/201217095043starzci.png" group-title="USA",Starz cinema (TVT)
+http://stream.mardio.link:8081/live/us-starz-cinema.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTggQU0maGFzaF92YWx1ZT12VHVJSk8vUjNRVUpzVlRvM2pvR05nPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTg1NzQ=
 #EXTINF:-1 tvg-id="" tvg-name="Starz comedy (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/201217095127Starz_Comedy_2016.svg.png" group-title="USA",Starz comedy (TVT)
-http://stream.mardio.link:8081/live/us-starz-comedy.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDkgQU0maGFzaF92YWx1ZT0vOFMzREdDdkFyRi9oeUxSaU5uSjRRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjk3Mzg=
-#EXTINF:-1 tvg-id="" tvg-name="Starz encore (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/201217095446encc.png" group-title="USA",Starz encore (TVT)
-http://stream.mardio.link:8081/live/us-starz-encore.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDkgQU0maGFzaF92YWx1ZT1rV0ptYlVhbDdpVDdzWURoNWxudURBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjk4NjY=
-#EXTINF:-1 tvg-id="" tvg-name="Sundance Tv (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/260218113223sund.png" group-title="USA",Sundance Tv (TVT)
-http://stream.mardio.link:8081/live/us-sundancetv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDkgQU0maGFzaF92YWx1ZT1BdGRMa0VSOTVQdWNwM0JxdlZocGJ3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjk4NjU=
+http://stream.mardio.link:8081/live/us-starz-comedy.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTggQU0maGFzaF92YWx1ZT1oREVhbzdPd0FXd2hJVkR3UFU2L2VnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTg2NjE=
 #EXTINF:-1 tvg-id="" tvg-name="Starz edge (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/201217095201Starz_Edge_2016.svg.png" group-title="USA",Starz edge (TVT)
-http://stream.mardio.link:8081/live/us-starz-edge.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDkgQU0maGFzaF92YWx1ZT1SdlZHZFA2L0VuNDJGR0c1WTNxVDhBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjk4NzI=
+http://stream.mardio.link:8081/live/us-starz-edge.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTggQU0maGFzaF92YWx1ZT1GMEtXTEdEWG5YY3dTbHMreWoxNWF3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTg2NTA=
+#EXTINF:-1 tvg-id="" tvg-name="Sundance Tv (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/260218113223sund.png" group-title="USA",Sundance Tv (TVT)
+http://stream.mardio.link:8081/live/us-sundancetv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTggQU0maGFzaF92YWx1ZT1JVzV4d1U1VjM1SGwwMDU3Nm9TbUlBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTg3MDY=
+#EXTINF:-1 tvg-id="" tvg-name="Starz encore (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/201217095446encc.png" group-title="USA",Starz encore (TVT)
+http://stream.mardio.link:8081/live/us-starz-encore.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTggQU0maGFzaF92YWx1ZT0raFNVL3NVUVhmU1E5dFRUaFY0c2VBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTg3MDA=
 #EXTINF:-1 tvg-id="" tvg-name="Syfy (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200116042554sfy.png" group-title="USA",Syfy (TVT)
-http://stream.mardio.link:8081/live/us-syfy.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDkgQU0maGFzaF92YWx1ZT1CRzAvbTlrNzUxQ2ZNN2VJSG1oK1pRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjk5MTk=
+http://stream.mardio.link:8081/live/us-syfy.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTggQU0maGFzaF92YWx1ZT1qRlE2T1l3QjFlYjZ5QWQ5OTEvRDJ3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTg4Nzk=
 #EXTINF:-1 tvg-id="" tvg-name="TBS (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/190223121850tbs.png" group-title="USA",TBS (TVT)
-http://stream.mardio.link:8081/live/us-tbs.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NDkgQU0maGFzaF92YWx1ZT1iOWs3THNCMFJoVVk5N25DUDRiRFJBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMjk5MTg=
+http://stream.mardio.link:8081/live/us-tbs.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTggQU0maGFzaF92YWx1ZT00YzJDMUFFQmZqZEsyTkZTOU8zWndBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTg5Mjc=
 #EXTINF:-1 tvg-id="" tvg-name="Tennis (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/211216095835tennis.png" group-title="USA",Tennis (TVT)
-http://stream.mardio.link:8081/live/us-tennis.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NTAgQU0maGFzaF92YWx1ZT1nNFNIeXJVbHg1eDlpUDVNN2psRW13PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMzAxMzM=
+http://stream.mardio.link:8081/live/us-tennis.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTkgQU0maGFzaF92YWx1ZT10M0N6a3JucmZJdHdyZ0V0c2ZRTkRnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTkxMDY=
 #EXTINF:-1 tvg-id="" tvg-name="The Weather Channel (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/221022031958The_Weather_Channel.png" group-title="USA",The Weather Channel (TVT)
-http://stream.mardio.link:8081/live/us-the-weather.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NTAgQU0maGFzaF92YWx1ZT1Nd1BGUjUxbFlvZ2QvS2xITjdhd3d3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMzA0OTE=
+http://stream.mardio.link:8081/live/us-the-weather.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTkgQU0maGFzaF92YWx1ZT1vQnhOMmpZSTd3NU5VMERKL1h4ZUZRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTkxODg=
 #EXTINF:-1 tvg-id="" tvg-name="TLC (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/211216100014tlcc.jpg" group-title="USA",TLC (TVT)
-http://stream.mardio.link:8081/live/us-tlc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NTAgQU0maGFzaF92YWx1ZT12aDQrUnNqUUhSeUluZzhYWGtBeG5BPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMzA2MTY=
+http://stream.mardio.link:8081/live/us-tlc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTkgQU0maGFzaF92YWx1ZT12VUV6VVZxQjV3UTQydDFkSHRBUnVBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTkyNzI=
+#EXTINF:-1 tvg-id="" tvg-name="Travel (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/310818124102tr.png" group-title="USA",Travel (TVT)
+http://stream.mardio.link:8081/live/us-travel-channel.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTkgQU0maGFzaF92YWx1ZT1KeFF2K2hUVC9HMTBHRFR1bVNKVEJnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTkzMTM=
 #EXTINF:-1 tvg-id="" tvg-name="TNT (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/170123085940tnt.png" group-title="USA",TNT (TVT)
-http://stream.mardio.link:8081/live/us-tnt.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NTAgQU0maGFzaF92YWx1ZT16VHlaaFlUSFRqVVE0dlBqZy9HSDFRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMzA3MjA=
+http://stream.mardio.link:8081/live/us-tnt.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTkgQU0maGFzaF92YWx1ZT1TUUlzZ0lHWHkzd3pVaHFsU3FXSmV3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTkyNzQ=
 #EXTINF:-1 tvg-id="" tvg-name="TSN 1 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200116043251tsn1.jpg" group-title="CANADA",TSN 1 (TVT)
-http://stream.mardio.link:8081/live/us-tsn1hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NTAgQU0maGFzaF92YWx1ZT05M2UyaWMva3VFeER6dHlySExKam53PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMzA4NTg=
-#EXTINF:-1 tvg-id="" tvg-name="TSN 3 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200116043351ts3.png" group-title="CANADA",TSN 3 (TVT)
-http://stream.mardio.link:8081/live/us-tsn3hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NTAgQU0maGFzaF92YWx1ZT1BZmkzTHp3WkkyUDM4UXFiZlY4T09BPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMzA4OTk=
-#EXTINF:-1 tvg-id="" tvg-name="TSN 2 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200116043314ts2.png" group-title="CANADA",TSN 2 (TVT)
-http://stream.mardio.link:8081/live/us-tsn2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NTAgQU0maGFzaF92YWx1ZT05RlBYOW5tNk9RZENrdXdDcUlJVjJnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMzA5MDY=
+http://stream.mardio.link:8081/live/us-tsn1hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTkgQU0maGFzaF92YWx1ZT12TlZEYmJpcWZkakF1eEdNMU1RVnhnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTkzMjc=
 #EXTINF:-1 tvg-id="" tvg-name="TSN 4 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/090917013550tsn4.png" group-title="CANADA",TSN 4 (TVT)
-http://stream.mardio.link:8081/live/us-tsn4hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NTEgQU0maGFzaF92YWx1ZT10bmNDVEpkU0pqYzZMNUlKd0FDZnFRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMzEwMTU=
-#EXTINF:-1 tvg-id="" tvg-name="TV ONE (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/221022030826TV_One_logo_2016.png" group-title="USA",TV ONE (TVT)
-http://stream.mardio.link:8081/live/us-tv-one.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NTEgQU0maGFzaF92YWx1ZT1nU1RXU1orOWc0Rml1MTFUUmdkM2x3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMzEwNTA=
+http://stream.mardio.link:8081/live/us-tsn4hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTkgQU0maGFzaF92YWx1ZT0wa2o3aU4yanFwZ1N2ajJGdWVsdWp3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTk0NzA=
+#EXTINF:-1 tvg-id="" tvg-name="TSN 3 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200116043351ts3.png" group-title="CANADA",TSN 3 (TVT)
+http://stream.mardio.link:8081/live/us-tsn3hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTkgQU0maGFzaF92YWx1ZT1Fb0V5dVBoeUMyd1U5UHo4N2F4MUx3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTk0NzU=
+#EXTINF:-1 tvg-id="" tvg-name="TSN 2 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200116043314ts2.png" group-title="CANADA",TSN 2 (TVT)
+http://stream.mardio.link:8081/live/us-tsn2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTkgQU0maGFzaF92YWx1ZT1Fb0V5dVBoeUMyd1U5UHo4N2F4MUx3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTk0NzU=
 #EXTINF:-1 tvg-id="" tvg-name="TSN 5 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/090917013648tsn5.png" group-title="CANADA",TSN 5 (TVT)
-http://stream.mardio.link:8081/live/us-tsn5hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NTEgQU0maGFzaF92YWx1ZT1WQ0o5bU5CTG1NamFRNkNEYmhsVStRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMzEwMzI=
+http://stream.mardio.link:8081/live/us-tsn5hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTkgQU0maGFzaF92YWx1ZT1Wc1A3UmdKWkhtTnB1cmliOWFRZ0dBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTk0ODA=
 #EXTINF:-1 tvg-id="" tvg-name="TV Land (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/221022031218TV_Land_2015.png" group-title="USA",TV Land (TVT)
-http://stream.mardio.link:8081/live/us-tv-land.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NTEgQU0maGFzaF92YWx1ZT0zZnk0TGo5WjFrekE1TGdSMFN6MWZ3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMzEwODY=
+http://stream.mardio.link:8081/live/us-tv-land.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTkgQU0maGFzaF92YWx1ZT1uSlJidVlweTRjMnRySFBmNE5pQURBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTk2Mzc=
+#EXTINF:-1 tvg-id="" tvg-name="TV ONE (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/221022030826TV_One_logo_2016.png" group-title="USA",TV ONE (TVT)
+http://stream.mardio.link:8081/live/us-tv-one.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTkgQU0maGFzaF92YWx1ZT1LOG44UmJrNGdjNWVBY0U5YzczRjd3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTk3MjA=
 #EXTINF:-1 tvg-id="" tvg-name="USA Network (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200116043501usaa.gif" group-title="USA",USA Network (TVT)
-http://stream.mardio.link:8081/live/us-usanetwork.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NTEgQU0maGFzaF92YWx1ZT1TS0tXdnhqSzdVZkxjL3RsSVZOZXJRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMzEyNjM=
+http://stream.mardio.link:8081/live/us-usanetwork.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjE6NTkgQU0maGFzaF92YWx1ZT0wamdxUit5V0dBNGFUNUJLNkFMTzR3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MTk4MzE=
 #EXTINF:-1 tvg-id="" tvg-name="VH1 (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/100118032012vh.png" group-title="USA",VH1 (TVT)
-http://stream.mardio.link:8081/live/us-vh1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NTEgQU0maGFzaF92YWx1ZT12UEtSVlM2S1dNbDBsN2VFQzQyK0N3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMzE0NzU=
+http://stream.mardio.link:8081/live/us-vh1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjI6MDAgQU0maGFzaF92YWx1ZT1tMkp5SjFtWlF1ZnF5Y01seFpPOWpRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MjAwMjg=
 #EXTINF:-1 tvg-id="" tvg-name="Vice TV (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/040424112801vice.png" group-title="USA",Vice TV (TVT)
-http://stream.mardio.link:8081/live/us-vicetv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NTEgQU0maGFzaF92YWx1ZT1ZSFU5SU5yYXJXNHFGaENBREY3dk93PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMzE3Mzc=
-#EXTINF:-1 tvg-id="" tvg-name="Yes Network (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/221022031826YES_Network_logo.png" group-title="USA",Yes Network (TVT)
-http://stream.mardio.link:8081/live/us-yesnetwork.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NTEgQU0maGFzaF92YWx1ZT1xKzBvbE9MQTlzZnFPeitobVZFSVVnPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMzE5NjQ=
+http://stream.mardio.link:8081/live/us-vicetv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjI6MDAgQU0maGFzaF92YWx1ZT12RUxrRmQ1djcxV3Jlb1lHMVA2b2NRPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MjAwMzQ=
 #EXTINF:-1 tvg-id="" tvg-name="wwe HD (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/200116043641wwee.gif" group-title="USA",wwe HD (TVT)
-http://stream.mardio.link:8081/live/us-wwehd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDY6MTg6NTEgQU0maGFzaF92YWx1ZT1GcnF0QTVvNzZtTTVtVEVmelN5Tnh3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkwNDAzMzE5NjA=
+http://stream.mardio.link:8081/live/us-wwehd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjI6MDAgQU0maGFzaF92YWx1ZT1pVzlPcThoVnl1bGE2bmhIN05ZenpBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MjAwODQ=
+#EXTINF:-1 tvg-id="" tvg-name="Yes Network (TVT)" tvg-logo="https://rocktalk.net/tv/images/channel_imgs/221022031826YES_Network_logo.png" group-title="USA",Yes Network (TVT)
+http://stream.mardio.link:8081/live/us-yesnetwork.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6MjI6MDAgQU0maGFzaF92YWx1ZT1jakpER1l2cHJQL2w2cXRPdGs3NmlBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3NTkxMjY5MjAyMjg=
